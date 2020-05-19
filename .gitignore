@@ -75,6 +75,9 @@ cscope.out
 /config.lua
 /objs
 
+# out ignore
+/out
+
 *.cmd
 *.dll
 *.dmg
